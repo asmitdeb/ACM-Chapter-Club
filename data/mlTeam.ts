@@ -1,5 +1,33 @@
 export const mlTeam: TeamMember[] = [
     {
+        firstName: "Wrick",
+        lastName: "Pal",
+        imageURL: "/team/ml-team/Wrick.jpeg",
+        post: "LEAD",
+        bio: "Machine learning enthusiast exploring neural networks and deep learning. Passionate about computer vision and enjoys hiking.",
+        linkedinURL: "https://www.linkedin.com/in/wrick-pal1062/",
+        githubURL: "https://github.com/Codecmania9122",
+    },
+    {
+        firstName: "Aindree",
+        lastName: "Chatterjee",
+        imageURL: "/team/ml-team/Aindree.jpeg",
+        post: "Secretary",
+        bio: "Machine learning enthusiast exploring neural networks and deep learning. Passionate about computer vision and enjoys hiking.",
+        linkedinURL: "https://www.linkedin.com/in/aindree-chatterjee-b93279201/",
+        githubURL: "https://github.com/aindree-2005",
+    },
+    {
+        firstName: "Sarbo",
+        lastName: "Sarcar",
+        imageURL: "/team/ml-team/Sarbo.jpeg",
+        post: "Joint Secretary",
+        bio: "Machine learning enthusiast exploring neural networks and deep learning. Passionate about computer vision and enjoys hiking.",
+        linkedinURL: "https://www.linkedin.com/in/sarbosarcar/",
+        githubURL: "https://github.com/sarbosarcar",
+    },
+    
+    {
         firstName: "Sauhardya",
         lastName: "Hazra",
         imageURL: "/team/ml-team/Sauhardya-passport-photo.jpeg",
@@ -7,6 +35,15 @@ export const mlTeam: TeamMember[] = [
         bio: "Machine learning enthusiast exploring neural networks and deep learning. Passionate about computer vision and enjoys hiking.",
         linkedinURL: "https://www.linkedin.com/in/sauhardya-hazra-b44110324",
         githubURL: "https://github.com/Sauhardya007",
+    },
+    {
+        firstName: "Ankan",
+        lastName: "Chakraborty",
+        imageURL: "/team/ml-team/Ankan.jpeg",
+        post: "Core Member",
+        bio: "Machine learning enthusiast exploring neural networks and deep learning. Passionate about computer vision and enjoys hiking.",
+        linkedinURL: "https://www.linkedin.com/in/ankan-chakraborty-37425b315/",
+        githubURL: " https://github.com/ankan2788",
     },
     {
         firstName: "Shraman",
